@@ -1,6 +1,4 @@
 # NLP-Syntax-Parsing-and-Text-Analysis-of-The-Picture-of-Dorian-Gray
-# NLP Syntax Parsing and Text Analysis of *The Picture of Dorian Gray*
-
 ## Overview
 
 This project performs Natural Language Processing (NLP) analysis on *The Picture of Dorian Gray* by Oscar Wilde using Python and the NLTK library.
