@@ -131,5 +131,7 @@ Possible extensions to this project include:
 ---
 
 ## Author
+Nishka Mehta
+
 
 Created as part of a Natural Language Processing learning project using Python and NLTK.
